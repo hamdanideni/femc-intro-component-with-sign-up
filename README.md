@@ -17,8 +17,8 @@ Users should be able to:
 
   ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/hamdanideni/femc-intro-component-with-sign-up](https://github.com/hamdanideni/femc-intro-component-with-sign-up)
+- Live Site URL: [https://hamdanideni.github.io/femc-intro-component-with-sign-up/](https://hamdanideni.github.io/femc-intro-component-with-sign-up/)
 
 ## My process
 
